@@ -118,7 +118,7 @@ This is a web application built with FastAPI, following the MVC design pattern. 
 
 1. **Clone the Repository**
     ```bash
-    git clone <your-repository-url>
+    git clone https://github.com/samuelGodad/FastApiBackend.git
     cd <repository-directory>
     ```
 
@@ -176,6 +176,9 @@ my_app/
 │ │ └── auth.py
 │ ├── database.py
 └── requirements.txt
+
+
+
 ## License
 
 This project is licensed under the MIT License.
